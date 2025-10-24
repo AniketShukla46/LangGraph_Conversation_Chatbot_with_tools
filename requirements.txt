@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+langchain
+langgraph
+langchain-community
+duckduckgo-search
+wikipedia
+streamlit
+google-generativeai
+sqlite3
+pydantic
+requests
